@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Sun / Horizon glow -->
+  <circle cx="50" cy="42" r="16" fill="#C5A66B" fill-opacity="0.25" />
+  <circle cx="50" cy="42" r="10" fill="#C5A66B" />
+  <!-- Rear Mountain Silhouette -->
+  <path d="M15 72 L42 34 L62 58 L72 44 L90 72 Z" fill="#235A4D" />
+  <!-- Front Mountain Silhouette -->
+  <path d="M8 78 L35 46 L55 70 L68 54 L92 78 Z" fill="#173F35" />
+  <!-- Journey / Pathway Motif -->
+  <path d="M42 78 C 45 68, 55 64, 52 56" stroke="#C5A66B" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 3"/>
+  <!-- Base Ground Line -->
+  <path d="M5 78 H95" stroke="#C5A66B" stroke-width="2" stroke-linecap="round" />
+</svg>
